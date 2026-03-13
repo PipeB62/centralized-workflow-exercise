@@ -4,7 +4,7 @@
 ## Ingredients
 - Tortillas
 - Meat
-- Salssa
+- Salsa
 
 ## Instructions
 
