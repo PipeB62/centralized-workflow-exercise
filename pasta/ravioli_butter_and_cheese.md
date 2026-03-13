@@ -1,7 +1,9 @@
-🧈 Ravioli with Butter and Cheese
+Ravioli with Butter and Cheese
 A simple, classic Northern Italian preparation
 
-🍝 Ingredients (2 servings)
+## Ingredients 
+(2 servings)
+
 250 g fresh ravioli (your preferred filling)
 
 60 g unsalted butter
@@ -14,7 +16,7 @@ Salt, to taste
 
 Freshly ground black pepper (optional)
 
-🔪 Instructions
+## Instructions
 Boil the ravioli  
 Bring a large pot of salted water to a gentle boil. Add the ravioli and cook until they float and are tender (usually 2–4 minutes, depending on thickness).
 
